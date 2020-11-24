@@ -32,7 +32,6 @@ qtdeclarative5-dev
 libqt5webkit5-dev
 libgl1-mesa-dev
 libgl1-mesa-glx
-libnss3-dev
 xcb
 xvfb
 EOF
